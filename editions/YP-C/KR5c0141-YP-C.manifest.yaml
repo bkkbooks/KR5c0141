@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR5c0141/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5c0141/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞靈真經
+  date: '2015-08-29 00:48:10.301256'
+  source:
+    repository: kanripo
+    path: KR5c0141
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0141_000-YP-C.yaml, hash: 'sha256:8e10083a278f5115e6b17d0162ca78c2f1dd5880e3bf2a2e8c6831ba841c9eed'}
+  - {seq: 1, filename: KR5c0141_001-YP-C.yaml, hash: 'sha256:457ced9052f689bf167166a772b21edb53767fb683f1efe5580451be73f47d9a'}
+  - {seq: 2, filename: KR5c0141_002-YP-C.yaml, hash: 'sha256:0d9e637f9a937f59d84dd45381fc0b483f9e01d53d0e493df50de420bdf282c7'}
+  - {seq: 3, filename: KR5c0141_003-YP-C.yaml, hash: 'sha256:180b952f15b06415994b9c5952bda4dd71233c37c01a17a5673cc186179a1126'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0141_001-YP-C.markers.yaml, hash: 'sha256:37fdea2a9580b8e0e6ceee9d9eda2f7843e2c2ee8989acf0aafdf57f6033e7d8'}
+  - {seq: 2, role: markers, filename: assets/KR5c0141_002-YP-C.markers.yaml, hash: 'sha256:0ba4854a7d971572776705009b7803aa6b093c3414dbed543143cfa16ce48d30'}
+  - {seq: 3, role: markers, filename: assets/KR5c0141_003-YP-C.markers.yaml, hash: 'sha256:e98dfbb73f600e1fc4416f04be9bc699621db059fe9a57596d6f2022b02ec0fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0141_YP-C_10nueji-07-0001a
+    span:
+    - body
+    - 0
+    - 7028
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0141_YP-C_10nueji-07-0022b
+    span:
+    - body
+    - 0
+    - 3771
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0141_YP-C_10nueji-07-0034b
+    span:
+    - body
+    - 0
+    - 5612
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:c0a3cfbb85bc21cc026814dd2b507a56e3c95c96597933c112481c2a693ba1ca

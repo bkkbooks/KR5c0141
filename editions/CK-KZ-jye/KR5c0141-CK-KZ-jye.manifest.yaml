@@ -1,0 +1,123 @@
+canonical_identifier: bkk:krp/KR5c0141/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0141/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞靈真經
+  date: '2015-08-29 00:48:10.301256'
+  source:
+    repository: kanripo
+    path: KR5c0141
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0141_000-CK-KZ-jye.yaml, hash: 'sha256:42f72a2d58b86dd6a9e543595f56997d30ff265b4744c3ccd4a986c0c6163457'}
+  - {seq: 1, filename: KR5c0141_001-CK-KZ-jye.yaml, hash: 'sha256:ec14e3dbc3f6bc25d6c57fa5bb572b8b4c07be50ab8e2c1bb425e30df2ed5791'}
+  - {seq: 2, filename: KR5c0141_002-CK-KZ-jye.yaml, hash: 'sha256:596b468419e5e1e294dbed788ccb02d614a74bfb8c70a38931cef2be15354580'}
+  - {seq: 3, filename: KR5c0141_003-CK-KZ-jye.yaml, hash: 'sha256:7e4f453e69915d6ad1ac1a58a03f27f1a86a6605e3d5e02f6f0e92f788096a06'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0141_001-CK-KZ-jye.markers.yaml, hash: 'sha256:eb3fd20d5467fed73337f1b1eb66435db74d6f592a5898299277b9b0d39fa0d0'}
+  - {seq: 2, role: markers, filename: assets/KR5c0141_002-CK-KZ-jye.markers.yaml, hash: 'sha256:b297a67e696419f3fc659a0e6c5e9c720f77c4ee21d5dd56da77aece2b7b706d'}
+  - {seq: 3, role: markers, filename: assets/KR5c0141_003-CK-KZ-jye.markers.yaml, hash: 'sha256:bf3b28d42646673b337bc92550e42264a740a707a110c6e58d7b34a106bfe1fb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0141_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 2206
+  label: 全道篇第一(夫心冥虛極德洞玄微功並四時蒼生自化)
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0141_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 2206
+    - 3203
+  label: 用道篇第二(無非利物上合天心克己歸仁化行刑措)
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0141_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 3203
+    - 6951
+  label: 政道篇第三(順天行令不擇親疎異域同歸望風而靡)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0141_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 1427
+  label: 君道篇第四(清靜無爲以身帥下)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0141_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 1427
+    - 2132
+  label: 臣道篇第五(盡忠竭力謀効所司)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0141_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 2132
+    - 3732
+  label: 賢道篇第六(克己復禮賢良自至)
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0141_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 2058
+  label: 訓道篇第七(至德之用萬教之主神明共贊可以化民)
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0141_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 2058
+    - 4020
+  label: 農道篇第八(夫穀者人之天理榖之道務農爲本)
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5c0141_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 4020
+    - 5544
+  label: 兵道篇第九(兵者不祥之器不得已而用之)
+  type: section
+  level: 2
+hash: sha256:bef6e3b735ebba74fd9153877ce870e9cdb83f4ee957e2aa884655ef866188da
