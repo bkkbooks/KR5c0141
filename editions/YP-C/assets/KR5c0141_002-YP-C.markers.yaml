@@ -22,6 +22,7 @@ markers:
       ', id: KR5c0141_YP-C_002-bkkkrnewl2}
   - {type: line-break, offset: 0, content: '', id: KR5c0141_YP-C_10nueji-07-0022b05}
   - {type: punctuation, offset: 5, content: (, id: KR5c0141_YP-C_002-bkkpn1}
+  - {type: voice, offset: 5, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 13, content: ), id: KR5c0141_YP-C_002-bkkpn2}
   - {type: 'kr:newline', offset: 13, content: '
 
@@ -503,6 +504,7 @@ markers:
       ', id: KR5c0141_YP-C_002-bkkkrnewl97}
   - {type: line-break, offset: 1422, content: '', id: KR5c0141_YP-C_10nueji-07-0026b17}
   - {type: punctuation, offset: 1433, content: (, id: KR5c0141_YP-C_002-bkkpn3}
+  - {type: voice, offset: 1433, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1435, content: ), id: KR5c0141_YP-C_002-bkkpn4}
   - {type: line-break, offset: 1436, content: '', id: KR5c0141_YP-C_10nueji-07-0026b18}
   - {type: 'kr:newline', offset: 1440, content: '
@@ -519,6 +521,7 @@ markers:
       ', id: KR5c0141_YP-C_002-bkkkrnewl100}
   - {type: line-break, offset: 1440, content: '', id: KR5c0141_YP-C_10nueji-07-0027a02}
   - {type: punctuation, offset: 1445, content: (, id: KR5c0141_YP-C_002-bkkpn5}
+  - {type: voice, offset: 1445, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 1453, content: ), id: KR5c0141_YP-C_002-bkkpn6}
   - {type: 'kr:newline', offset: 1453, content: '
 
@@ -760,6 +763,7 @@ markers:
       ', id: KR5c0141_YP-C_002-bkkkrnewl148}
   - {type: line-break, offset: 2158, content: '', id: KR5c0141_YP-C_10nueji-07-0029a06}
   - {type: punctuation, offset: 2163, content: (, id: KR5c0141_YP-C_002-bkkpn7}
+  - {type: voice, offset: 2163, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 2171, content: ), id: KR5c0141_YP-C_002-bkkpn8}
   - {type: 'kr:newline', offset: 2171, content: '
 
@@ -992,6 +996,7 @@ markers:
   - {type: punctuation, offset: 2803, content: /, id: KR5c0141_YP-C_002-bkkpn9}
   - {type: 'kr:non-cjk', offset: 2804, content: ']', id: KR5c0141_YP-C_002-bkkkrnonc2}
   - {type: punctuation, offset: 2804, content: (, id: KR5c0141_YP-C_002-bkkpn10}
+  - {type: voice, offset: 2804, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 2806, content: ), id: KR5c0141_YP-C_002-bkkpn11}
   - {type: 'kr:newline', offset: 2806, content: '
 
@@ -1053,6 +1058,7 @@ markers:
       ', id: KR5c0141_YP-C_002-bkkkrnewl207}
   - {type: line-break, offset: 2953, content: '', id: KR5c0141_YP-C_10nueji-07-0031b13}
   - {type: punctuation, offset: 2968, content: (, id: KR5c0141_YP-C_002-bkkpn12}
+  - {type: voice, offset: 2968, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2970, content: ), id: KR5c0141_YP-C_002-bkkpn13}
   - {type: 'kr:newline', offset: 2971, content: '
 
@@ -1137,6 +1143,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 3173, content: '[', id: KR5c0141_YP-C_002-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 3174, content: '@', id: KR5c0141_YP-C_002-bkkkrnonc4}
   - {type: punctuation, offset: 3174, content: (, id: KR5c0141_YP-C_002-bkkpn14}
+  - {type: voice, offset: 3174, length: 3, name: note, id: n7}
   - {type: punctuation, offset: 3175, content: /, id: KR5c0141_YP-C_002-bkkpn15}
   - {type: punctuation, offset: 3176, content: /, id: KR5c0141_YP-C_002-bkkpn16}
   - {type: punctuation, offset: 3177, content: ), id: KR5c0141_YP-C_002-bkkpn17}
@@ -1165,6 +1172,7 @@ markers:
   - {type: line-break, offset: 3272, content: '', id: KR5c0141_YP-C_10nueji-07-0032b15}
   - {type: line-break, offset: 3281, content: '', id: KR5c0141_YP-C_10nueji-07-0032b16}
   - {type: punctuation, offset: 3281, content: (, id: KR5c0141_YP-C_002-bkkpn18}
+  - {type: voice, offset: 3281, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 3283, content: ), id: KR5c0141_YP-C_002-bkkpn19}
   - {type: 'kr:newline', offset: 3285, content: '
 
@@ -1343,4 +1351,4 @@ markers:
 
       ', id: KR5c0141_YP-C_002-bkkkrnewl265}
   back: []
-hash: sha256:0ba4854a7d971572776705009b7803aa6b093c3414dbed543143cfa16ce48d30
+hash: sha256:9a657febf2d19b1175fd989beb609ba360ddfa52651d61cff91567db09a1c0e6
